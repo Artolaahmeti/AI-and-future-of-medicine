@@ -42,7 +42,7 @@ In medical imaging research, artificial intelligence is playing an increasingly 
 
 
 
-## References
+## References:
 
 https://www.docwirenews.com/ai-and-the-future-of-medicine/
 
